@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to our Serminar team's page.
-Our team is made up of Yao Li, Yf Bian, Yh jiang, Qx chen, Xh D, Yb C.
+Our team is made up of [Yao Lee](https://github.com/mrliyao), [Yf Bian](https://github.com/esakak), [Yh jiang](https://github.com/bitaswood), [Qx chen](https://github.com/xxii111), [Xh D](https://github.com/SihonDing), [Yb C](https://github.com/YiboChen2020).
 
 ### End To End Compression
 
