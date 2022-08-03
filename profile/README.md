@@ -1,12 +1,12 @@
-## Hi there 👋
+### Hi there 👋
 Welcome to our Serminar team's page.
 Our team is made up of Yao Li, Yf Bian, Yh jiang, Qx chen, Xh D, Yb C.
 
-## End To End Compression
+### End To End Compression
 
 Our team's work on USTC iVC Seminar programming playground. 
 
-## Baseline
+### Baseline
 
 We use the framework proposed in the following paper as our work's baseline.
 
@@ -14,9 +14,9 @@ Ballé J, Laparra V, Simoncelli E P. End-to-end optimized image compression[J]. 
 
 The paper is available [here](https://arxiv.org/pdf/1611.01704.pdf).
 
-## Framework
+### Framework
 
-### GDN
+#### GDN
 
 ```python
 class GDN(nn.Module):
@@ -65,6 +65,6 @@ class GDN(nn.Module):
         return outputs
 ```
 
-## Support or Contact
+### Support or Contact
 
 You may contact us via our website on https://ustc-ivcseminar-team2.github.io/end-to-end_compression/.
