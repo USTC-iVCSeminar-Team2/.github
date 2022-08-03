@@ -67,6 +67,6 @@ class GDN(nn.Module):
 
 ### Support or Contact
 
-You may see the tutoriol via our website on [team website](https://ustc-ivcseminar-team2.github.io/end-to-end_compression/) or the pdf xxx.
+You may see the tutoriol via our website [team website](https://ustc-ivcseminar-team2.github.io/end-to-end_compression/) or the pdf xxx.
 
 If you have any questions about these implementations, feel free to contact me. The contact information is on [esakak's page](https://esakak.world/PersonalPage).
